@@ -20,7 +20,6 @@
     - Egg Dropping Puzzle
     - Boolean Parenthesization Problem
 
-#### 4. Each day has a branch and a problem of the day 
-### 5. My Socials 🥰
+### 4. My Socials 🥰
  Github: <https://github.com/Harsheeta-kapoor> 
  LinkedIn : <https://www.linkedin.com/in/harsheeta-kapoor-86461b1a0/>
